@@ -6,5 +6,6 @@ text.
 -@choice: choice text.
 
 @choice
+new-page: false
 test test.
 
