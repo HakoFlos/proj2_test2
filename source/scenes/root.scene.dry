@@ -1,0 +1,9 @@
+title: root
+new-page: true
+
+text.
+
+-@choice: choice text.
+
+@choice
+test test.
